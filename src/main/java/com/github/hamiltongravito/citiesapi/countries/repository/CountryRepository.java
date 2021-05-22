@@ -1,4 +1,4 @@
-package com.github.hamiltongravito.citiesapi.repository;
+package com.github.hamiltongravito.citiesapi.countries.repository;
 
 import com.github.hamiltongravito.citiesapi.countries.Country;
 import org.springframework.data.jpa.repository.JpaRepository;
