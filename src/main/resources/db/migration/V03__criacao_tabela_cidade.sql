@@ -33,7 +33,7 @@ COMMENT ON COLUMN public.cidade.cod_tom
   IS 'Código TOM (SEFAZ)';
 
 
-ALTER TABLE public.cidade OWNER TO d37ad85sj54f1o;
+ALTER TABLE public.cidade OWNER TO cxcaigpsuzishe;
 
 --
 -- Name: cidade_id_seq; Type: SEQUENCE; Schema: public; Owner: postgres
