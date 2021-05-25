@@ -47,7 +47,7 @@ CREATE SEQUENCE public.cidade_id_seq
     CACHE 1;
 
 
-ALTER TABLE public.cidade_id_seq OWNER TO hhlbcrwbouyrbb;
+ALTER TABLE public.cidade_id_seq OWNER TO postgres;
 
 --
 -- Name: cidade_id_seq; Type: SEQUENCE OWNED BY; Schema: public; Owner: postgres
